@@ -4,7 +4,7 @@
     "nodemon": "^2.0.22",
     "socket.io": "^4.6.1"
   },
-  "name": "socket-io",
+  "name": "prueba",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
